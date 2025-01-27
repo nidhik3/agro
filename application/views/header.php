@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title> ASTHETIC AI </title>
+  <title> AgroCart </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/flogo.png" rel="icon">
+  <link href="assets/img/favicon.png" rel="icon">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 
@@ -67,8 +67,8 @@
 
         <ul>
           <li><a class="nav-link scrollto active" href="Feature">Features</a></li>
-          <li><a class="nav-link scrollto" href="About">About</a></li>
-          <li><a class="nav-link scrollto" href="Pricing">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="About">About Us</a></li>
+          <li><a class="nav-link scrollto" href="Pricing">Our Team</a></li>
           <li>
             <div class="row d-flex justify-content-center">
               <div class="col-md-5 d-flex justify-content-center">
